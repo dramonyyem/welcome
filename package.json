@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://dramonyyem.github.io/welcome",
   "scripts": {
+    "dev" : "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
